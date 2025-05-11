@@ -1,5 +1,7 @@
 <div align="center">
-![BOOM.FUN Logo](boomfun-logo.jpg)
+  
+![BooM.Fun Logo](boomfun-logo.jpg)
+  
 # BOOM.FUN
 
 _🚀 Innovative Gaming Platform | Simple • Fun • Efficient_
