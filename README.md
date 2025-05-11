@@ -12,6 +12,10 @@ _🚀 Innovative Gaming Platform | Simple • Fun • Efficient_
 
 BOOM.FUN is a cutting-edge gaming platform that provides users with an immersive and engaging gaming experience. Built with modern web technologies and a focus on performance, the platform delivers seamless gameplay and social interactions.
 
+Website：https://boomfun.fun
+X：https://x.com/BoomFunSOL
+
+
 ### 🎯 Core Features
 
 - **High Performance**: Built with React.js and Node.js for optimal speed
